@@ -1,11 +1,9 @@
-# Application-reactjs--countries-informations-
+# Countries Rest API with Reactjs and Tailwind CSS
 
-On vous demande de développer une application reactjs pour consommer l’api https://restcountries.eu/rest/v2
+This project is based of the Countries Rest API challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges).
 
-Travail à faire :
+## Application Overview
 
-Page qui affiche les codes des pays et réagit au choix du code par l’utilisateur.
-Page qui affiche les langues et réagit au choix de l’utilisateur.
-Page qui affiche les capitales des pays après choix du continent.
-Page qui permet d’entrer le nom du pays et récupérer le calling code.
-Votre application doit utiliser les ‘functional component’.
+This project makes use of Tailwind CSS for the layout and styling of the look and feel. It allows dark mode implementation by using the "dark" class provided in Tailwind. This project is build using Reactjs and React Router for navigation.
+
+![image](https://res.cloudinary.com/dz209s6jk/image/upload/v1554827486/Challenges/wirxeocmd6tpnn9c5oqc.jpg)
